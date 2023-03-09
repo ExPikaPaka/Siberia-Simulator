@@ -1,5 +1,5 @@
 # Siberia-Simulator
-A windows console game.
+The Windows console game.
 
 Actually no gameplay, only infinite to the right side world(like a Mario game), with a snow, and shovel to dig the ground.
 It was my first game, so it is ugly, but there is something in it.
